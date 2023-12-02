@@ -1,0 +1,5 @@
+- Owner of the gun range
+- Good friend of Hastings
+- Primary witness (Discovered the body when he entered the range at about 5pm)
+- Knows about Hastings hidden notes, but not what is written on them
+- A DC15 persuasion check lets him reveal the location
