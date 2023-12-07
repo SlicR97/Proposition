@@ -1,3 +1,5 @@
+#Hastings #Handout
+
 "
 Hastings,
 
@@ -7,5 +9,5 @@ Regards,
 A
 
 P.S.
-I would suggest you keep your head down for a while; your group has stirred up something in the underbelly of this city. I don't yet know what, but I'll keep researching. If you want to find out more yourself, maybe try talking to the Rat.
+I would suggest you keep your head down for a while; your group has stirred up something in the underbelly of this city. I don't yet know what, but I'll keep researching. If you want to find out more yourself, maybe try talking to [[The Rat]].
 "

@@ -4,115 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3658ff30c757145f",
+        "id": "8c56038fcd50eed7",
         "type": "tabs",
         "children": [
           {
-            "id": "08162ec71a4bcaa5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "99ce60207d26cdb1",
+            "id": "da87e76f2cf1b03d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Former PCs/William Hastings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d32a99d247c3ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Hastings' Journal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "034c72e76a504097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Hastings' Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "421a0a5f5cc10589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Hastings' Phone Book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82ba599e57f27060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Hastings' Flat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f3b924f6216252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Bob the third.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88f218b4e61f95ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/The Outer One.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b622665d21b497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/The Last Job.md",
+                "file": "Locations/The Church.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Montana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/The Last Job.md",
+                "file": "Locations/The Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/The Last Job.md",
+                "file": "Locations/The Church.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/The Last Job.md"
+                "file": "Locations/The Church.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,17 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "934e9d83261c16a6",
+  "active": "da87e76f2cf1b03d",
   "lastOpenFiles": [
-    "Events",
-    "NPCs/The Outer One.md",
-    "Events/The Last Job.md",
-    "NPCs/Bob the third.md",
-    "Locations/Hastings' Flat.md",
-    "Items/Hastings' Phone Book.md",
-    "Items/Hastings' Note.md",
+    "Former PCs/Johnny Montana.md",
+    "Items/Heldenhammer's Note.md",
+    "Items/Heldenhammer's Contacts.md",
     "Items/Hastings' Journal.md",
+    "Items/Passphrase.md",
+    "Items/Combination.md",
+    "Locations/Arkham library.md",
+    "Former PCs/Berty McDonald.md",
+    "Workflow.canvas",
+    "Locations/The Church.md",
+    "NPCs/Father Gascoigne.md",
+    "Untitled",
+    "Items/Berty McDonald's Note.md",
+    "Items/The Cryptex.md",
+    "Items/Letter To Zh.md",
+    "NPCs/The Outer One.md",
+    "NPCs/Armitage.md",
+    "Locations/Arkham Gun Range.md",
+    "Locations/The Arkham Gazette.md",
+    "NPCs/The Rat.md",
+    "Items/The Underworld Contacts.md",
+    "Items/Hastings' Phone Book.md",
+    "Former PCs/Mable Parker-Green.md",
     "Former PCs/William Hastings.md",
+    "Items/Hastings' Note.md",
+    "Former PCs/Konrad Heldenhammer.md",
+    "Events/The Last Job.md",
+    "PCs/Nika \"The Bow\" Zh.md",
+    "Organisations",
+    "PCs",
+    "Events",
     "NPCs",
     "Locations",
     "Items",

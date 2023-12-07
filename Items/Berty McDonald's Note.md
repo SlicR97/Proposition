@@ -1,0 +1,1 @@
+"When encountering a rat, you might do well to bribe it with some cheese"

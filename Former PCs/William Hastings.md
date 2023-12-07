@@ -1,10 +1,9 @@
+#Hastings
+
 - Military veteran
 - Male, about 50
-- Died at the gun range, right outside Arkham
-- Killed by his own gun, presumably suicide
-- However, his gun was found a few meters away
-- On his body, there is a bit of cash. A dc 15 investigation check reveals a note in his boot
-- There is a circle of guns around him ("O")
+
+- On his body, there are 70$ of cash. A dc 15 investigation check reveals a note in his boot
 - When investigating the crime scene, the player will first hear the voice of the outer entity in their head
 
 Goal of the encounter

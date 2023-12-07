@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"130ba0498f63a850","type":"text","text":"Cryptex","x":-508,"y":-177,"width":250,"height":60},
+		{"id":"2d24c6cb8e9c40f2","type":"text","text":"Hastings","x":-180,"y":-177,"width":250,"height":60},
+		{"id":"9d1dd17d50d753cc","type":"text","text":"Konrad Heldenhammer","x":395,"y":30,"width":250,"height":60},
+		{"id":"7fed14760aaa6fa6","type":"text","text":"Armitage","x":300,"y":-360,"width":250,"height":60},
+		{"id":"ba133a7c350a6dd6","type":"text","text":"Berty McDonald","x":740,"y":-360,"width":250,"height":60},
+		{"id":"c274a898f80de907","type":"text","text":"Hint for The One Eye, 2/4\n(Street Name)","x":1720,"y":-670,"width":250,"height":60},
+		{"id":"384b28541208d271","type":"text","text":"Hint for The One Eye, 1/4\n(Church)","x":1720,"y":-177,"width":250,"height":60},
+		{"id":"94c05c72753924ce","type":"text","text":"The Rat","x":1300,"y":-500,"width":250,"height":60},
+		{"id":"27bc94fa46af3dc2","type":"text","text":"Hint for The One Eye, 3/4\n(Father Gascoigne)","x":1720,"y":-500,"width":250,"height":60},
+		{"id":"54aa9f974cb1b19a","type":"text","text":"Hint for The One Eye, 4/4\n(Rough Sketch)","x":1720,"y":30,"width":250,"height":60},
+		{"id":"29344f6a27feb30b","type":"text","text":"Parker-Green","x":490,"y":-670,"width":250,"height":70},
+		{"id":"14afb3ccac936c2a","x":1720,"y":-360,"width":250,"height":60,"type":"text","text":"Hint for The One Eye, 5/4\n(Passphrase)"}
+	],
+	"edges":[
+		{"id":"86b5c58829a7bf81","fromNode":"130ba0498f63a850","fromSide":"right","toNode":"2d24c6cb8e9c40f2","toSide":"left"},
+		{"id":"e7b9fa3e6eeec75e","fromNode":"2d24c6cb8e9c40f2","fromSide":"right","toNode":"94c05c72753924ce","toSide":"left"},
+		{"id":"255bc62312e583e2","fromNode":"2d24c6cb8e9c40f2","fromSide":"right","toNode":"384b28541208d271","toSide":"left"},
+		{"id":"6b304315781e99ad","fromNode":"2d24c6cb8e9c40f2","fromSide":"right","toNode":"7fed14760aaa6fa6","toSide":"left"},
+		{"id":"d64a7699ffb065af","fromNode":"29344f6a27feb30b","fromSide":"right","toNode":"ba133a7c350a6dd6","toSide":"left"},
+		{"id":"25c063c3a2026c26","fromNode":"29344f6a27feb30b","fromSide":"right","toNode":"c274a898f80de907","toSide":"left"},
+		{"id":"ebce30e8dd22e10e","fromNode":"29344f6a27feb30b","fromSide":"right","toNode":"7fed14760aaa6fa6","toSide":"left"},
+		{"id":"5f26addca145d1b2","fromNode":"94c05c72753924ce","fromSide":"right","toNode":"27bc94fa46af3dc2","toSide":"left"},
+		{"id":"791f82a148aa09dd","fromNode":"2d24c6cb8e9c40f2","fromSide":"right","toNode":"9d1dd17d50d753cc","toSide":"left"},
+		{"id":"cbf9fbfa1ae566e4","fromNode":"9d1dd17d50d753cc","fromSide":"right","toNode":"54aa9f974cb1b19a","toSide":"left"},
+		{"id":"d3c9fe105b7027ad","fromNode":"9d1dd17d50d753cc","fromSide":"right","toNode":"29344f6a27feb30b","toSide":"left"},
+		{"id":"2a1882848ae6d650","fromNode":"9d1dd17d50d753cc","fromSide":"right","toNode":"7fed14760aaa6fa6","toSide":"left"},
+		{"id":"93ceda9c7ff19690","fromNode":"9d1dd17d50d753cc","fromSide":"right","toNode":"ba133a7c350a6dd6","toSide":"left"},
+		{"id":"23a9b3514d90cece","fromNode":"7fed14760aaa6fa6","fromSide":"right","toNode":"ba133a7c350a6dd6","toSide":"left"},
+		{"id":"16b7c7b0623ed7eb","fromNode":"7fed14760aaa6fa6","fromSide":"right","toNode":"9d1dd17d50d753cc","toSide":"left"},
+		{"id":"3ddef23348d04737","fromNode":"ba133a7c350a6dd6","fromSide":"right","toNode":"94c05c72753924ce","toSide":"left"},
+		{"id":"89fa0feea0866f8b","fromNode":"ba133a7c350a6dd6","fromSide":"right","toNode":"9d1dd17d50d753cc","toSide":"left"},
+		{"id":"a6245c6946b929b8","fromNode":"7fed14760aaa6fa6","fromSide":"top","toNode":"29344f6a27feb30b","toSide":"left"},
+		{"id":"e583a332bef14667","fromNode":"2d24c6cb8e9c40f2","fromSide":"top","toNode":"29344f6a27feb30b","toSide":"left"},
+		{"id":"dabf3ca61a3215c7","fromNode":"7fed14760aaa6fa6","fromSide":"right","toNode":"94c05c72753924ce","toSide":"left"},
+		{"id":"53666cbcc6767c74","fromNode":"ba133a7c350a6dd6","fromSide":"right","toNode":"14afb3ccac936c2a","toSide":"left"}
+	]
+}

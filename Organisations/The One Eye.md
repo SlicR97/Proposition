@@ -1,0 +1,3 @@
+The One Eye is an ancient cult devoted to resurrecting [[The Outer One]]. They have gone to great lengths to achieve this feat, infiltrating the church on East Church Street and slowly turning it into their headquarters.
+
+They recently almost managed to complete their ritual, were however interrupted by [[William Hastings]] and the rest of his group. Many were killed, but one managed to flee with the ring into which the soul of [[The Outer One]] had been bound successfully by then. The last step was to find a suitable wearer who would dedicate their soul the [[The Outer One]] for all eternity.

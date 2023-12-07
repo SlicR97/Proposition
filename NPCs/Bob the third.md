@@ -1,5 +1,5 @@
-- Owner of the gun range
-- Good friend of Hastings
+- Owner of [[Arkham Gun Range]]
+- Good friend of [[William Hastings]]
 - Primary witness (Discovered the body when he entered the range at about 5pm)
-- Knows about Hastings hidden notes, but not what is written on them
-- A DC15 persuasion check lets him reveal the location
+- When pressed, he will reveal the location of [[Hastings' Note]]
+- A DC 15 persuasion check will also make him reveal the following: Shortly before [[William Hastings]]' death, he heard shouting from the range. Apparently, [[William Hastings]] had threatened the other customers at the range at gunpoint, forcing them to leave. When left alone, a few minutes passed, then Bob had heard another single shot, then silence. When he entered the shooting grounds, he saw [[William Hastings]] on the ground, in the composition described in [[Arkham Gun Range]]

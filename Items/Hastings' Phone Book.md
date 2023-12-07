@@ -1,4 +1,4 @@
-- Armitage: 348752348
-- Parker-Green: 348756324
-- Heldenhammer: 11302597
-- Montana: 7058432930
+#Hastings #Handout
+
+- Armitage: 348752348, 1 West Armitage Street, "Old One"
+- Heldenhammer: 11302597, 3 West Chuch Street, "Hammerhai"
